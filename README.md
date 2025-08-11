@@ -1,4 +1,4 @@
-Gemini API Flutter Integration – Test Project
+Gemini API Flutter Integration – Test Project (model used : gemini-2.5-pro)
 Overview
 This is a small test project I put together to see how a Flutter app could talk to Google’s Gemini API, get back a JSON response, and use that data to update the UI on the fly.
 
