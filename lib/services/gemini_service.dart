@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import '../models/gemini_response_model.dart';
 
 class GeminiService {
-  final String apiKey = "AIzaSyDQ-lJvyBw1Ezl3RMIh90dUj0eAVViq_Qk";
+  final String apiKey = "Use your api key for gemini 2.5 pro model";
 
   Future<GeminiResponse> getLayoutFromPrompt(String prompt) async {
     final url = Uri.parse(
